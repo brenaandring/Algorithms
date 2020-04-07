@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public void rotate(int[] nums, int k) {
         for(int i = 0; i <k; i ++) {
             shiftByOne(nums);
