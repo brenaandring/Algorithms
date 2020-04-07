@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class FindMax {
+public class FindMax {
     public static double findMax(double[] a) {
         double max = a[0];
         for (int i = 1; i < a.length; i++) {
